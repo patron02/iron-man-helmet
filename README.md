@@ -12,6 +12,13 @@ The helmet was programmed using Arduino and was composed of multiple servo motor
 
 https://user-images.githubusercontent.com/69320369/212190039-a0ba420b-f096-4aa8-90d6-98593f5f5633.MOV
 
+
+https://user-images.githubusercontent.com/69320369/212190373-701daf80-3811-4b88-9120-191dc08321c2.MOV
+
+
 <img src="https://user-images.githubusercontent.com/69320369/212190000-3097b389-56a6-419b-8a39-487d24588826.jpg" width="240" />
 
+LED panels were used to make the eyes light up but were later taken off because the screws for mounting them to the eye panels were too large. 
+
+https://user-images.githubusercontent.com/69320369/212190604-50789166-5e74-4633-b262-69f355983159.MOV
 
