@@ -1,4 +1,4 @@
-November of 2021 I built an Iron Man helmet. I used a pre-existing STL that someone else had made an modified it to fit some of my components. 
+November of 2021 I built an Iron Man helmet. I used a pre-existing STL that someone else had made and modified it to fit some of my components. 
 
 ![helm](https://user-images.githubusercontent.com/69320369/212188582-7eac9156-ba3f-4742-86e2-83f83606a96d.jpg)
 ![insi](https://user-images.githubusercontent.com/69320369/212188659-b47eb2fe-46a2-4aa8-a8b2-9ce6788005d8.jpg)
