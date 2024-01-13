@@ -1,9 +1,5 @@
-November of 2021 I built an Iron Man helmet. I used a pre-existing STL that someone else had made and modified it to fit some of my components. 
-
 ![helm](https://user-images.githubusercontent.com/69320369/212188582-7eac9156-ba3f-4742-86e2-83f83606a96d.jpg)
 ![insi](https://user-images.githubusercontent.com/69320369/212188659-b47eb2fe-46a2-4aa8-a8b2-9ce6788005d8.jpg)
-
-I 3D printed all of the parts at home using a Prusa Printer and spray painted and smoothed them as needed. 
 
 ![3d print](https://user-images.githubusercontent.com/69320369/212188782-6a1cd817-fa18-40fe-960f-6e359b4f7ae9.jpg)
 <img src="https://user-images.githubusercontent.com/69320369/212189516-aae9beab-6cbf-4e1d-940c-1b494ff8f04d.jpg" width="240" />
