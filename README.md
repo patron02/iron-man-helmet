@@ -1,4 +1,4 @@
-![helm](https://user-images.githubusercontent.com/69320369/212188582-7eac9156-ba3f-4742-86e2-83f83606a96d.jpg)
+<img src="https://user-images.githubusercontent.com/69320369/212188582-7eac9156-ba3f-4742-86e2-83f83606a96d.jpg" width="240" />
 ![insi](https://user-images.githubusercontent.com/69320369/212188659-b47eb2fe-46a2-4aa8-a8b2-9ce6788005d8.jpg)
 
 ![3d print](https://user-images.githubusercontent.com/69320369/212188782-6a1cd817-fa18-40fe-960f-6e359b4f7ae9.jpg)
